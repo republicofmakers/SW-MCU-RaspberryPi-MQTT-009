@@ -1,4 +1,4 @@
-# SW-RaspberryPi-Thonny-MQTT-009
+# SW-MCU-RaspberryPi-MQTT-009
 
 
 Here is simple MQTT code to send data to your server from develeopment board. I used pico-W.
